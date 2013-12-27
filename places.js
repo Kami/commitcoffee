@@ -2265,3 +2265,4 @@ var places = [
 		"link": {"homepage":"http://www.zvezdaljubljana.si/"}
 	}
 ]
+
